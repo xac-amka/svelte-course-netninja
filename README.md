@@ -13,3 +13,9 @@
  - Svelte compiles your code for production at build time into a single, vanilla, JS bundle
  - No extra scripts or libraries are shipped to production
  - Often results in a faster running website
+ 
+## [3] To install
+```js
+npm i -g degit
+degit sveltejs/template <your_app_name>
+```
