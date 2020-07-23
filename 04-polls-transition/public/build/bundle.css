@@ -1,0 +1,11 @@
+main.svelte-1w6z2mv{max-width:960px;margin:40px auto}
+form.svelte-1qc7v4e{width:400px;margin:0 auto;text-align:center}.form-field.svelte-1qc7v4e{margin:18px auto}input.svelte-1qc7v4e{width:100%;border-radius:6px}label.svelte-1qc7v4e{margin:10px auto;text-align:left}.error.svelte-1qc7v4e{font-weight:bold;font-size:12px;color:#d91b42}
+footer.svelte-cfnfi1{padding:40px;text-align:center}.copyright.svelte-cfnfi1{color:#aaa;font-size:14px;display:inline;padding:20px;border-top:1px solid #ddd}
+header.svelte-lutf5g{background:#F7F7F7;padding:20px}h1.svelte-lutf5g{margin:0;text-align:center}img.svelte-lutf5g{max-width:180px}
+h3.svelte-nhqede{margin:0 auto;color:#555}p.svelte-nhqede{margin-top:6px;font-size:14px;color:#aaa;margin-bottom:30px}.answer.svelte-nhqede{background:#fafafa;cursor:pointer;margin:10px auto;position:relative}.answer.svelte-nhqede:hover{opacity:0.6}span.svelte-nhqede{display:inline-block;padding:10px 20px}.percent.svelte-nhqede{height:100%;position:absolute;box-sizing:border-box}.percent-a.svelte-nhqede{border-right:4px solid #d91b42;background:rgba(217, 27, 66, 0.2)}.percent-b.svelte-nhqede{border-right:4px solid #45c496;background:rgba(69, 196, 150, 0.2)}.delete.svelte-nhqede{margin-top:30px;text-align:center}
+.poll-list.svelte-10snxrb{display:grid;grid-template-columns:repeat(2, 1fr);grid-gap:20px}
+button.svelte-mobm6{border:0;cursor:pointer;border-radius:6px;padding:8px 12px;font-weight:bold;box-shadow:1px 2px 3px rgba(0,0,0,0.2)}.primary.svelte-mobm6{background:#d91b42;color:#fff}.secondary.svelte-mobm6{background:#45c496;color:#fff}.flat.svelte-mobm6{box-shadow:none}.primary.inverse.svelte-mobm6{color:#d91b42;background:#fff;border:2px solid #d91b42}.secondary.inverse.svelte-mobm6{color:#45c496;background:#fff;border:2px solid #45c496}
+.card.svelte-1v0saa4{background:#fff;padding:20px;border-radius:6px;box-shadow:0px 2px 4px rgba(0,0,0,0.1)}
+.tabs.svelte-1chy95y{margin-bottom:40px}ul.svelte-1chy95y{display:flex;justify-content:center;padding:0;list-style:none}li.svelte-1chy95y{margin:0 16px;font-size:18px;color:#555;cursor:pointer}.active.svelte-1chy95y{color:#d91b42;border-bottom:2px solid #d91b42;padding-bottom:8px}
+
+/*# sourceMappingURL=bundle.css.map */
