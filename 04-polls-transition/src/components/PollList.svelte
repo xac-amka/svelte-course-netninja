@@ -37,16 +37,16 @@
 </style>
 <!-- We only use transition on HTML elements, not custom element -->
 <div class="poll-list">
-    {#each $store as poll (poll.id)}
     <!-- pipe local says just transition in current svelte file, if it goes outside don't transition -->
-        <div in:fade out:scale|local animate:flip={{duration: 500}}>
+        <!-- <div {poll} in:fade out:scale|local >  -->
+    {#each $store as poll (poll.id) }
+        <div in:fade out:scale|local animate:flip={{duration: 500}}> 
             <PollDetails {poll} />
         </div>
-
-        <!-- <div transition:fade>
+    {:else}
+            <!-- <div transition:fade>
             <PollDetails {poll} />
         </div> -->
-    {:else}
         <p>Poll list is empty, please add new poll here</p>
     {/each}
 </div>
