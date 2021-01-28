@@ -15,7 +15,7 @@
     "@rollup/plugin-commonjs": "^13.0.1",
     "@rollup/plugin-node-resolve": "^8.4.0",
     "concurrently": "^5.2.0",
-    "electron": "^9.1.0",
+    "electron": "^9.4.0",
     "rollup": "^2.21.0",
     "rollup-plugin-babel": "^4.4.0",
     "rollup-plugin-css-only": "^2.1.0",
